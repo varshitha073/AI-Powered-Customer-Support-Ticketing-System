@@ -7,16 +7,16 @@
 
 ##  Team Details
 
-**Team ID:** SWTID-2026-9963
+**Team ID:** SWTID-2026-4758
 
 ### Team Leader
-- **Thilak Nalla**
+- **Pasalapudi V V Sai Sri Lakshmi Padmavathi**
 
 ### Team Members
-- Geethu Lahari
-- Swathi Vasireddy
-- Sri Sai Vijaya Durga Pushpa Adigarla
-- Venkata Sai Supriya Ramayanam
+- Dhanush Kanda
+- Thota Satya Lakshmi Ishwarya
+- Saipriya Saladi
+
 
 ---
 
@@ -334,7 +334,7 @@ During this project, we gained practical experience in:
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/1MrJnx6L99ASandlswpN1HiUcDi-lnXUz/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1BTNSMiLkJbdrKCfGB1ry45suEzF6ijVe/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge">
 </a>
 
@@ -364,7 +364,7 @@ This project serves as a practical implementation of Salesforce Administration c
 
 **SmartBridge Internship Project – 2026**
 
-**Team ID:** SWTID-2026-9963
+**Team ID:** SWTID-2026-4758
 
 Developed using **Salesforce Developer Org**, **SkillWallet**, and **Agentforce AI** as part of the SmartBridge Internship Program.
 
