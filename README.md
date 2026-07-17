@@ -7,7 +7,7 @@
 
 ##  Team Details
 
-**Team ID:** SWUID2026198332
+**Student ID:** SWUID2026198332
 
 ### Team Members
 - Sunkara Naga Venkata Kanaka Sri Varshitha
