@@ -7,15 +7,15 @@
 
 ##  Team Details
 
-**Team ID:** SWTID-2026-4758
-
-### Team Leader
-- **Pasalapudi V V Sai Sri Lakshmi Padmavathi**
+**Team ID:** SWUID2026198332
 
 ### Team Members
-- Dhanush Kanda
-- Thota Satya Lakshmi Ishwarya
-- Saipriya Saladi
+- Sunkara Naga Venkata Kanaka Sri Varshitha
+- Shanmukha Kasireddy
+- Pedada Sai Krishna
+- Venkanna Babu
+- Shaik Mohammed Inshadh
+
 
 
 ---
@@ -248,6 +248,8 @@ AI Feedback Loop
 # 📁 Project Structure
 
 ```text
+Smartbridge
+|
 AI-Powered-Customer-Support-Ticketing-System/
 │
 ├── Architecture/
@@ -335,7 +337,7 @@ During this project, we gained practical experience in:
 <p align="center">
 
 <a href="https://drive.google.com/file/d/1BTNSMiLkJbdrKCfGB1ry45suEzF6ijVe/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge">
+
 </a>
 
 </p>
@@ -364,7 +366,7 @@ This project serves as a practical implementation of Salesforce Administration c
 
 **SmartBridge Internship Project – 2026**
 
-**Team ID:** SWTID-2026-4758
+**Team ID:** SWUID2026198332
 
 Developed using **Salesforce Developer Org**, **SkillWallet**, and **Agentforce AI** as part of the SmartBridge Internship Program.
 
