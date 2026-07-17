@@ -336,7 +336,7 @@ During this project, we gained practical experience in:
 
 <p align="center">
 
-<a href="[https://drive.google.com/file/d/1BTNSMiLkJbdrKCfGB1ry45suEzF6ijVe/view?usp=drivesdk](https://drive.google.com/file/d/1UuWj-oVEZkKxtn2Id86Jyx4k9h1EhJlp/view?usp=drive_link)">
+<a href="https://drive.google.com/file/d/1UuWj-oVEZkKxtn2Id86Jyx4k9h1EhJlp/view?usp=drive_link">
 <img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge">
 
 </a>
