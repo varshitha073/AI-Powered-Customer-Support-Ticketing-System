@@ -367,7 +367,7 @@ This project serves as a practical implementation of Salesforce Administration c
 
 **SmartBridge Internship Project – 2026**
 
-**Team ID:** SWUID2026198332
+**Student ID:** SWUID2026198332
 
 Developed using **Salesforce Developer Org**, **SkillWallet**, and **Agentforce AI** as part of the SmartBridge Internship Program.
 
